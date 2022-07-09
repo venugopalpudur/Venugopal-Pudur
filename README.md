@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Connect with me:
-rakeshsangem8
 
-Languages and Tools:
-c cplusplus css3 html5 javascript mysql
+
+![This is an image](https://img.icons8.com/ios-filled/50/000000/html-5--v1.png)
