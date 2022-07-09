@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @venugopalpudur
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java & Python
-- 💞️ I’m looking to collaborate on Java projects
-- 📫 How to reach me - https://www.linkedin.com/in/venugopalpudur/
+# GitHub Profile of Venugopal Pudur
+👋 Hi, I’m **@venugopalpudur**
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+👀 I’m interested in Software Development
+🌱 I’m currently learning Java & Python
+💞️ I’m looking to collaborate on Java projects
+📫 How to reach me - https://www.linkedin.com/in/venugopalpudur/
 
 <!---
 venugopalpudur/venugopalpudur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +16,7 @@ Connect with me:
 
 ![This is an image](https://cdn.cdnlogo.com/logos/h/80/html-5.svg)
 ![This is an image](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/72.0.0/node.js/node.js.svg)
+![](https://github.com/gilbarbara/logos/blob/master/logos/css-3.svg)
 
 Here is a simple footnote[^1].
 
