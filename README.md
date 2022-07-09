@@ -12,4 +12,18 @@ You can click the Preview link to take a look at your changes.
 Connect with me:
 
 
-![This is an image](https://img.icons8.com/ios-filled/50/000000/html-5--v1.png)
+![This is an image](https://cdn.cdnlogo.com/logos/h/80/html-5.svg)
+![This is an image](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/72.0.0/node.js/node.js.svg)
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].  
+
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: My reference.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
