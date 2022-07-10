@@ -1,8 +1,8 @@
 ## Profile of Venugopal Pudur
-#### 👋 Hi, I’m @venugopalpudur 
-👀 I’m interested in Software Development
-🌱 I’m currently learning Java & Python
-💞️ I’m looking to collaborate on Java projects
+- ##### 👋 Hi, I’m @venugopalpudur 
+- ##### 👀 I’m interested in Software Development
+- ##### 🌱 I’m currently learning Java & Python
+- ##### 💞️ I’m looking to collaborate on Java projects
 
 #### Connect me - 
 https://www.linkedin.com/in/venugopalpudur/
