@@ -1,5 +1,5 @@
-## GitHub Profile of Venugopal Pudur
-### 👋 Hi, I’m @venugopalpudur 
+## Profile of Venugopal Pudur
+#### 👋 Hi, I’m @venugopalpudur 
 👀 I’m interested in Software Development
 🌱 I’m currently learning Java & Python
 💞️ I’m looking to collaborate on Java projects
