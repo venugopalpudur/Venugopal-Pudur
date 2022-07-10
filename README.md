@@ -4,7 +4,7 @@
 🌱 I’m currently learning Java & Python
 💞️ I’m looking to collaborate on Java projects
 
-#### How to connect me - 
+#### Connect me - 
 https://www.linkedin.com/in/venugopalpudur/
 
 <!---
@@ -12,10 +12,31 @@ venugopalpudur/venugopalpudur is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+
 #### My Skills & Contribution(s) are/in:
 ![This is an image](https://cdn.cdnlogo.com/logos/h/80/html-5.svg)
 
+<details><summary>CLICK ME</summary>
+<p>
 
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
 
 
 Here is a simple footnote[^1].
@@ -30,3 +51,35 @@ You can also use words, to fit your writing style more closely[^note].
 [^note]:
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new lines.
+
+
+
+
+
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
